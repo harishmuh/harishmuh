@@ -23,7 +23,7 @@ data visualization, and developing machine learning models that drive actionable
 ---
 
 📊 **My Projects**  
-- 🤖 [**Machine Learning Projects**](#): Developing predictive models for classification, regression tasks, and clustering.  
+- 🤖 [**Machine Learning Projects**](https://github.com/harishmuh/machine_learning_projects/tree/main): Developing predictive models for classification, regression tasks, and clustering.  
 - 🧬 [**Bioinformatics Pipeline Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects): Automating DNA sequence analysis with Biopython tools.  
 - 📈 [**Data Analytics Projects**](#): Researching insights and developing actionable recommendations for business decision-making   
 - 📊 [![Tableau Dashboards](https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat&logo=Tableau)](https://public.tableau.com/app/profile/harish.muhammad/vizzes)  
