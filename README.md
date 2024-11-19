@@ -28,6 +28,7 @@ data visualization, and developing machine learning models that drive actionable
 - 📈 [**Data Analytics Projects**](#): Researching insights and developing actionable recommendations for business decision-making   
 - 📊 [![Tableau Dashboards](https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat&logo=Tableau)](https://public.tableau.com/app/profile/harish.muhammad/vizzes)  
 - 🔬 [![Google Scholar Publications](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=GoogleScholar)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)  
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Harish-Muhammad-2)
 
 ---
 
