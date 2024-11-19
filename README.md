@@ -3,8 +3,7 @@
 Nice to meet you and thank you for visiting my GitHub! 😄
 
 I am **Harish**. I am a data analyst with a robust background in life-science research and advanced degree in STEM and Management. 
-Currently, I am working in **multidisciplinary data analysis projects** (including business analytics and Biological sequence data analysis) where I apply my skill in analysing datasets, 
-data visualization, and developing machine learning models that drive actionable insights.   
+Currently, I am working in **multidisciplinary data analysis projects** (including business analytics and biological sequence data analysis) where I apply my skill in analysing datasets, data visualization, and developing machine learning models that drive actionable insights.   
 
 ---
 
