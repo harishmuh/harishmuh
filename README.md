@@ -17,7 +17,7 @@ Currently, I am working in **multidisciplinary data analysis projects** (includi
 - 📊 **Data Visualization**: Tableau, Looker Studio  
 - 💻 **Application Development**: Streamlit  
 - 🧬 **Bioinformatic Tools**: Biopython, BioEdit, MEGA, ClustalW, FastTree  
-- ⚙️ **Others**: Visual Studio Code, Jupyter Notebook, GitHub, Ms. Office  
+- ⚙️ **Others**: Google colab, Visual Studio Code, Jupyter Notebook,  GitHub, Ms. Office  
 
 ---
 
