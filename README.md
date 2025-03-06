@@ -23,7 +23,7 @@ Currently, I am working in **multidisciplinary data science projects** (includin
 
 📊 **My Projects**  
 - 🤖 [**Machine Learning Projects and Apps**](https://github.com/harishmuh/machine_learning_projects/tree/main): Developing predictive models for classification, regression tasks, and clustering.  
-- 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects): Collection of biological sequence analysis  
+- 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects)   
 - 📈 [**Data Analytic Projects**](https://github.com/harishmuh/data_analyst_projects/tree/main): Exploring insights and developing actionable recommendations for business decision-making   
 - 📊 **Data Visualization**: [![Tableau Dashboards](https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat&logo=Tableau)](https://public.tableau.com/app/profile/harish.muhammad/vizzes)  
 - 🔬 **Research Projects**: [![Google Scholar Publications](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=GoogleScholar)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Harish-Muhammad-2)
@@ -38,7 +38,7 @@ I also use my data science skills to optimize decision-making and remotely manag
 
 👀 **Let's collaborate!**
 
-I am eager to collaborate on projects involving data and predictive analytics, genomics data pipelines, or business optimization strategies.
+I am eager to collaborate on projects involving data and predictive analytics, genomics, or business optimization strategies.
 
 ---
 
