@@ -8,7 +8,7 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 ---
 
 
-🌱 **My skills**
+🌱 **My Skills & Tools**
 - 🐍 **Programming Languages**: Python (Extensive use), R (Statistical Analysis)  
 - 📊 **Data Science (Python)**: Pandas, Numpy, Scikit-Learn  
 - 📈 **Statistical Analysis Tools**: SPSS, Minitab  
