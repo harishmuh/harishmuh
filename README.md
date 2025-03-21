@@ -29,19 +29,16 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 - 🔬 **Research Projects**: [![Google Scholar Publications](https://img.shields.io/badge/Google-Scholar-blue?style=flat&logo=GoogleScholar)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Harish-Muhammad-2)
 
 ---
+📈 **GitHub Stats**  
+
+![stats](https://github-readme-stats.vercel.app/api?username=harishmuh&show_icons=true&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
+
+---
 
 ⚡ **Fun fact**
 
 I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business.
-
-
----
-📈 **GitHub Summary**
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishmuh&theme=github_dark)
-
-
 
 ---
 👀 **Let's collaborate!**
