@@ -2,8 +2,8 @@
 
 Nice to meet you and thank you for visiting my GitHub! 😄
 
-My name is **Harish**. I am a data science associate with a robust background in life-science research and advanced degree in STEM and Management. 
-Currently, I am working in **multidisciplinary data science projects** (including business analytics and biological sequence data analysis) where I apply my skill in analysing datasets, data visualization, and developing machine learning models that drive actionable insights.   
+My name is **Harish**. I am a data science associate with a robust background in life-science research and an advanced degree in STEM and Management. 
+Currently, I am working on **multidisciplinary data science projects** (including business analytics and biological sequence data analysis) where I apply my skill in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
 
 ---
 
@@ -34,13 +34,19 @@ Currently, I am working in **multidisciplinary data science projects** (includin
 
 I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business.
 
----
 
+---
+📈 **GitHub Summary**
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishmuh&theme=github_dark)
+
+
+
+---
 👀 **Let's collaborate!**
 
 I am eager to collaborate on projects involving data and predictive analytics, genomics, or business optimization strategies.
-
----
 
 📫 Feel free to contact me through:
 📧 [Email](mailto:harishmuh@gmail.com) | 📱 [WhatsApp](https://wa.me/6281288387694) | 💼 [LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/)
