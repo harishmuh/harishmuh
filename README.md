@@ -1,9 +1,9 @@
 ### 👋 Hi there, 
 
-Nice to meet you and thank you for visiting my GitHub! 😄
+Nice to meet you, and thank you for visiting my GitHub! 😄
 
-My name is **Harish**. I am a data science associate with a robust background in life-science research and an advanced degree in STEM and Management. 
-Currently, I am working on **multidisciplinary data science projects** (including business analytics and biological sequence data analysis) where I apply my skill in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
+My name is **Harish**. I am a data science associate and mentor in a bootcamp with a robust background in life-science research and an advanced degree in STEM and Management. 
+Currently, I am working on **multidisciplinary data science projects** (including business analytics and biological sequence data analysis) where I apply my skills in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
 
 ---
 
@@ -17,7 +17,7 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 - 📊 **Data Visualization**: Tableau, Looker Studio  
 - 💻 **Application Development**: Streamlit  
 - 🧬 **Bioinformatic Tools**: Biopython, BioEdit, MEGA, ClustalW, FastTree  
-- ⚙️ **Others**: Google colab, Visual Studio Code, Jupyter Notebook,  GitHub, Ms. Office  
+- ⚙️ **Others**: Google Colab, Visual Studio Code, Jupyter Notebook,  GitHub, MS Office  
 
 ---
 
