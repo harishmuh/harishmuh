@@ -13,7 +13,7 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 - 📊 **Data Science (Python)**: Pandas, Numpy, Scikit-Learn  
 - 📈 **Statistical Analysis Tools**: SPSS, Minitab  
 - 🛢️ **Database Management**: SQL (MySQL, BigQuery)  
-- 🤖 **Machine Learning**: Predictive models (Classification, Regression, K-Means Clustering)  
+- 🤖 **Machine Learning**: Predictive models (Classification, Regression, Clustering, PCA)  
 - 📊 **Data Visualization**: Tableau, Looker Studio  
 - 💻 **Application Development**: Streamlit  
 - 🧬 **Bioinformatic Tools**: Biopython, BioEdit, MEGA, ClustalW, FastTree  
