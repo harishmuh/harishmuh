@@ -46,6 +46,6 @@ I also use my data science skills to optimize decision-making and remotely manag
 I am eager to collaborate on projects involving data and predictive analytics, genomics, or business optimization strategies.
 
 📫 Feel free to contact me through:
-📧 [Email](mailto:harishmuh@gmail.com) | 📱 [WhatsApp](https://wa.me/6281288387694) | 💼 [LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/)
+📧 [Email](mailto:harishmuh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/)
 
   
