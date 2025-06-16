@@ -16,8 +16,8 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 - 🤖 **Machine Learning**: Predictive models (Classification, Regression, Clustering, PCA)  
 - 📊 **Data Visualization**: Tableau, Looker Studio  
 - 💻 **Application Development**: Streamlit  
-- 🧬 **Bioinformatic Tools**: Biopython, BioEdit, MEGA, ClustalW, FastTree  
-- ⚙️ **Others**: Google Colab, Visual Studio Code, Jupyter Notebook,  GitHub, MS Office  
+- 🧬 **Bioinformatic Tools**: Galaxy, Biopython, BioEdit, MEGA, ClustalW, FastTree  
+- ⚙️ **Others**: Google Colab, Visual Studio Code, Jupyter Notebook, GitHub
 
 ---
 
