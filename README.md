@@ -1,3 +1,6 @@
+![ViewCount](https://views.whatilearened.today/views/github/harishmuh/harishmuh.svg?cache=remove)
+
+
 ### 👋 Hi there, 
 
 Nice to meet you, and thank you for visiting my GitHub! 😄
