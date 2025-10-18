@@ -34,16 +34,16 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 
 ---
 
+⚡ **Some facts about me**
+- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis and data visualization, and machine learning. Feel free to check the [FREE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
+- I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business. Please feel free to contact our business if you need a car with a personal driver in the city of JABODETABEK (Jakarta, Bogor, Depok, Tangerang, and Bekasi) area, Indonesia.
+
+---
+
 📈 **GitHub Stats**  
 
 ![stats](https://github-readme-stats.vercel.app/api?username=harishmuh&show_icons=true&theme=tokyonight)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
-
----
-
-⚡ **Some facts about me**
-- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis and data visualization, and machine learning. Feel free to check the [FREE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
-- I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business. Please feel free to contact our business if you need a car with a personal driver in the city of JABODETABEK (Jakarta, Bogor, Depok, Tangerang, and Bekasi) area, Indonesia.
 
 ---
 👀 **Let's collaborate!**
