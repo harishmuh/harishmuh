@@ -35,7 +35,7 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 ---
 
 ⚡ **Some facts about me**
-- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis, data visualization, and machine learning. Feel free to check the [FREE DATA TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
+- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis, data visualization, and machine learning. Feel free to check the [FREE DATA SCIENCE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
 - I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business. Please feel free to contact our business if you need a car with a personal driver in the city of JABODETABEK (Jakarta, Bogor, Depok, Tangerang, and Bekasi) area, Indonesia.
 
 ---
