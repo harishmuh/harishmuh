@@ -21,19 +21,6 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 
 ---
 
-🌱 **My Skills & Tools**
-- 🐍 **Programming Languages**: Python (Extensive use), R (Statistical Analysis)  
-- 📊 **Data Science (Python)**: Pandas, Numpy, Scikit-Learn  
-- 📈 **Statistical Analysis Tools**: SPSS, Minitab  
-- 🛢️ **Database Management**: SQL (MySQL, BigQuery)  
-- 🤖 **Machine Learning**: Predictive models (Classification, Regression, Clustering, PCA)  
-- 📊 **Data Visualization**: Tableau, Looker Studio  
-- 💻 **Application Development**: Streamlit  
-- 🧬 **Bioinformatic Tools**: Galaxy, Biopython, BioEdit, MEGA, ClustalW, FastTree  
-- ⚙️ **Others**: Google Colab, Visual Studio Code, Jupyter Notebook, GitHub
-
----
-
 ⚡ **Some facts about me**
 - I provide data science lectures to beginner professionals who want to learn Python programming, data analysis, data visualization, and machine learning. Feel free to check the [FREE DATA SCIENCE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
 - I also use my data science skills to optimize decision-making and remotely manage my 🚗 [car rental](https://arasyarentcar.com/) business. Please feel free to contact our business if you need a car with a personal driver in the city of JABODETABEK (Jakarta, Bogor, Depok, Tangerang, and Bekasi) area, Indonesia.
@@ -42,7 +29,7 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 
 📈 **GitHub Stats**  
 
-![stats](https://github-readme-stats.vercel.app/api?username=harishmuh&show_icons=true&theme=tokyonight)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
 
 ---
