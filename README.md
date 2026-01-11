@@ -30,7 +30,22 @@ Currently, I am working on **multidisciplinary data science projects** (includin
 📈 **GitHub Stats**  
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishmuh&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark&cache_seconds=86400)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmuh&theme=github_dark)
+
+
+## **GitHub Activity**
+
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=harishmuh&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
 ---
 👀 **Let's collaborate!**
