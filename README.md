@@ -47,6 +47,11 @@ Currently, I am working on **multidisciplinary data science projects** (includin
   />
 </p>
 
+## GitHub Activity
+
+![GitHub Metrics](https://raw.githubusercontent.com/harishmuh/harishmuh/main/github-metrics.svg)
+
+
 ---
 👀 **Let's collaborate!**
 
