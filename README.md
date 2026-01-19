@@ -5,8 +5,8 @@
 
 Nice to meet you, and thank you for visiting my GitHub! 😄
 
-My name is **Harish**. I am a data science mentor in an educational institution. I had a background in life-science research and degrees in STEM and Management. 
-Currently, I am working on **multidisciplinary data science projects** (including biomedical data analysis and business analytics) where I apply my skills in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
+My name is **Harish**. I am a data science teacher in an educational institution. I had a background in life-science research and degrees in STEM and Management. 
+Currently, I am working on multidisciplinary data science projects (including biomedical data analysis and business analytics) where I apply my skills in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
 
 
 ---
