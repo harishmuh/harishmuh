@@ -11,7 +11,7 @@ Currently, I am working on multidisciplinary data science projects (including bi
 
 ---
 
-📊 **My Projects**
+📊 **My Project Clusters**
 - 🩺 [**Machine learning application in biomedical and healthcare**](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/blob/main/README.md) -  Disease prediction
 - 🧠 [**Machine learning application in customer-centric industries**](https://github.com/harishmuh/machine_learning_projects/tree/main) - Customer segmentation (clustering), claim/default prediction (classification), and price prediction (regression)  
 - 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects) - Sequence and phylogenetic analysis  
