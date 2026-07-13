@@ -5,8 +5,8 @@
 
 Nice to meet you, and thank you for visiting my GitHub! 😄
 
-My name is **Harish**. I am a data science teacher in an educational institution. I have a background in life-science research and degrees in STEM and Management. 
-Currently, I am working on multidisciplinary data science projects (including biomedical data analysis and business analytics) where I apply my skills in analyzing datasets, data visualization, and developing machine learning models that drive actionable insights.   
+I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After publishing multiple peer-reviewed papers analyzing tissue and bacterial dynamics in aquaculture, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
+
 
 ---
 
@@ -35,7 +35,7 @@ Currently, I am working on multidisciplinary data science projects (including bi
 ---
 
 ⚡ **Some facts about me**
-- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis, data visualization, and machine learning. Feel free to check the 🎓[FREE DATA SCIENCE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
+- I provide data science lectures to beginner professionals who want to learn Python programming, data analysis, data visualization, and machine learning. Feel free to check 🎓[FREE DATA SCIENCE TUTORIALS](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
 
 
 ---
