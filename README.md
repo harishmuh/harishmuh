@@ -23,9 +23,9 @@ I am a data science instructor and life sciences researcher with an academic bac
 ---
 
 ### 📊 **My Project Clusters**
-- 🩺 [**Machine learning application in biomedical and healthcare**](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/blob/main/README.md) -  Disease prediction
+- 🔬 [**Digital and computational Pathology**](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/blob/main/README.md) -  Bioimage analysis, digital health analytics, and Disease prediction
 - 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects) - Sequence and phylogenetic analysis
-- 🔬 [**Research Papers in Life Sciences**](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) - (Microbiology & Bio-Industry)    
+- 🧫 [**Comparative & Experimental Pathology**](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) - My published research in histopathology, applied microbiology, and aquaculture  
 ---
 
 ### **💻 Tech stacks**
