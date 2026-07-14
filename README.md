@@ -5,7 +5,7 @@
 
 Nice to meet you, and thank you for visiting my GitHub! 😄
 
-I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After publishing multiple peer-reviewed papers analyzing tissue and bacterial dynamics in aquaculture, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
+I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After contributing to multiple peer-reviewed papers, analyzing tissue structures, and examining bacterial pathogen and parasite dynamics in the aquatic environments, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
 
 
 ---
