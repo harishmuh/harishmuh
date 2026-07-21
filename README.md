@@ -5,7 +5,7 @@
 
 Nice to meet you, and thank you for visiting my GitHub! 😄
 
-I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After contributing to multiple peer-reviewed papers, analyzing tissue structures, and examining bacterial pathogen and parasite dynamics in the aquatic environments, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
+I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After contributing to multiple peer-reviewed papers, analyzing tissue structures, and examining bacterial pathogen and parasite dynamics in aquatic environments, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
 
 
 ---
@@ -19,6 +19,12 @@ I am a data science instructor and life sciences researcher with an academic bac
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/harishmuh/PneumoScan-Junior">
+    <img src="https://github.com/harishmuh/PneumoScan-Junior/blob/main/assets/banner.png?raw=true" alt="Banner" width="600">
+  </a>
+</p>
 
 ---
 
