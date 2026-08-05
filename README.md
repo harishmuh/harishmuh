@@ -12,6 +12,10 @@ I am a data science instructor and life sciences researcher with an academic bac
 
 ### 💡 **Key projects**
 
+<a href="https://thoraxscan14.streamlit.app/" target="_blank">
+  <img src="https://github.com/harishmuh/thoraxscan14/blob/main/assets/images/demo_thoraxscan14.gif?raw=true" alt="Demo GIF" width="100%">
+</a>
+
 
 <p align="center">
   <a href="https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main">
