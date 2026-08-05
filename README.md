@@ -12,23 +12,19 @@ I am a data science instructor and life sciences researcher with an academic bac
 
 ### 💡 **Key projects**
 
-<a href="https://thoraxscan14.streamlit.app/" target="_blank">
-  <img src="https://github.com/harishmuh/thoraxscan14/blob/main/assets/images/demo_thoraxscan14.gif?raw=true" alt="Demo GIF" width="100%">
-</a>
-
-
 <p align="center">
   <a href="https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main">
     <img src="https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/raw/main/Data/Multi-label%20Thoracic%20Diseases/Banner%20cover.png?raw=true" alt="Banner" width="600">
   </a>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/harishmuh/PneumoScan-Junior">
-    <img src="https://github.com/harishmuh/PneumoScan-Junior/blob/main/assets/banner.png?raw=true" alt="Banner" width="600">
+  <a href="https://thoraxscan14.streamlit.app/">
+    <img src="https://github.com/harishmuh/thoraxscan14/blob/main/assets/images/demo_thoraxscan14.gif?raw=true" alt="Banner" width="600">
   </a>
 </p>
+
+
 
 ---
 
