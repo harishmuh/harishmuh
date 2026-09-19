@@ -19,6 +19,13 @@ I am a data science instructor and life sciences researcher with an academic bac
 ### 💡 **Key projects**
 
 <p align="center">
+  <a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
+    <img src="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI/blob/main/figures/banner/banner.png?raw=true" alt="Banner" width="600">
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main">
     <img src="https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/raw/main/Data/Multi-label%20Thoracic%20Diseases/Banner%20cover.png?raw=true" alt="Banner" width="600">
   </a>
