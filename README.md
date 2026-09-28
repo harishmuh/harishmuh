@@ -8,14 +8,61 @@ I am a life sciences researcher and data science instructor working at the inter
 
 ---
 
-### 📊 **My Project Clusters**
+### 🔬 Research Focus
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 🧬
+**Computational Biology**
+
+Biological data analysis, bioinformatics, and predictive modeling
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🖥️
+**Biomedical Imaging**
+
+Image classification, bioimage analysis, and interpretable AI
+
+</td>
+
+<td width="25%" valign="top">
+
+### 📊
+**Disease Prediction**
+
+Machine learning and deep learning for biological and biomedical data
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🔬
+**Experimental Biology**
+
+Histopathology, microbiology, aquatic animal health, and disease biology
+
+</td>
+</tr>
+</table>
+
+
+
+
+---
+
+### 📊 Project Clusters
 - 🔬 [**Digital and Computational Pathology**](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/blob/main/README.md) -  Bioimage analysis, digital health analytics, and Disease prediction
 - 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects) - Sequence and phylogenetic analysis
 - 🧫 [**Comparative & Experimental Pathology**](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) - My published research in histopathology, applied microbiology, and aquaculture  
 
 
-
-### 💡 **Key projects**
+---
+### 💡 Key projects
 
 <p align="center">
   <a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
@@ -38,25 +85,57 @@ I am a life sciences researcher and data science instructor working at the inter
 
 ---
 
-### 👨‍🏫 **Practical Data Science Tutorials for Beginners**
-<p align="center">
-  <a href="https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners">
-    <img src="https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners/blob/main/assets/practical_ds_tutorial_banner.png?raw=true" alt="Banner" width="600">
-  </a>
-</p>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 💻 **Tech stacks**
+### 👨‍🏫 Teaching & Educational Resources
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners">
+<img src="https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners/blob/main/assets/practical_ds_tutorial_banner.png?raw=true" alt="Practical Data Science Tutorials for Beginners" width="100%">
+</a>
+
+I also develop practical data science tutorials for learners transitioning into Python, data analysis, machine learning, and deep learning.
+
+**Explore Tutorials & Learning Materials →** [Open repository](https://github.com/harishmuh/FREE-TUTORIALS_Data-Science-for-Beginners)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Technical Toolkit
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+**Development**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
+</td>
 
+</tr>
+</table>
 
-
-
-![GitHub Metrics](./github-metrics.svg)
 
 ---
 
