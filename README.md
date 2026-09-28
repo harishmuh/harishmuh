@@ -1,11 +1,10 @@
 ![ViewCount](https://views.whatilearened.today/views/github/harishmuh/harishmuh.svg?cache=remove)
 
 
-### 👋 Hi there, 
+### 👋 Hi there, I'm Harish
+**Computational Biology | Biological Data Science | AI for Disease Prediction**
 
-Nice to meet you, and thank you for visiting my GitHub! 😄
-
-I am a data science instructor and life sciences researcher with an academic background spanning STEM, management, and microbiology. After contributing to multiple peer-reviewed papers, analyzing tissue structures, and examining bacterial pathogen and parasite dynamics in aquatic environments, I expanded my focus into advanced analytics. Today, I use my hybrid domain expertise to apply deep learning workflows to digital pathology and disease prediction.
+I am a life sciences researcher and data science instructor working at the intersection of biology, machine learning, and biomedical imaging. My research background spans microbiology, histopathology, aquatic animal health, and disease biology. I apply statistical learning and deep learning to biological and biomedical data, with particular interests in disease prediction, bioimage analysis, and interpretable AI.
 
 ---
 
