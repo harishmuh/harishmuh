@@ -7,25 +7,7 @@
 I am a life sciences researcher and data science instructor working at the intersection of biology, machine learning, and biomedical imaging. My research background spans microbiology, histopathology, aquatic animal health, and disease biology. I apply statistical learning and deep learning to biological and biomedical data, with particular interests in disease prediction, bioimage analysis, and interpretable AI.
 
 
-<p align="left">
-
-<a href="mailto:harishmuh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harish-muhammad-7b600b102/">
-<img src="https://img.shields.io/badge/LinkedIn-Harish_Muhammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://www.researchgate.net/profile/Harish-Muhammad-2">
-<img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/) · [Google Scholar](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0004-7639-7582) · [ResearchGate](https://www.researchgate.net/profile/Harish-Muhammad-2)
 
 ---
 
