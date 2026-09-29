@@ -92,7 +92,7 @@ Deep Learning · CNN · TensorFlow · Keras · Grad CAM
 
 Aquatic disease prediction · Computer vision · Explainable AI
 
-[Live Demo](https://thoraxscan14.streamlit.app/) · [Repository](https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI)
+[Live Demo](https://fishscan7.streamlit.app/) · [Repository](https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI)
 
 </td>
 
