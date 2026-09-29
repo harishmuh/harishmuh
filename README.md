@@ -73,7 +73,7 @@ Histopathology, microbiology, aquatic animal health, and disease biology
 
 
 ---
-### 💡 Key projects
+### 💡 Featured projects
 
 <p align="center">
   <a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
