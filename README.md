@@ -63,7 +63,7 @@ Machine learning and deep learning for biological and biomedical data
 <td width="25%" valign="top">
 
 ### 🔬
-**Experimental Biology**
+[**Experimental Biology**](https://github.com/harishmuh/experimental-biology)
 
 Histopathology, microbiology, aquatic animal health, and disease biology
 
