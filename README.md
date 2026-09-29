@@ -36,7 +36,7 @@ I am a life sciences researcher and data science instructor working at the inter
 <td width="25%" valign="top">
 
 ### 🧬
-**Computational Biology**
+[**Computational Biology**](https://github.com/harishmuh/bioinformatics_biopython_projects)
 
 Biological data analysis, bioinformatics, and predictive modeling
 
