@@ -72,16 +72,6 @@ Histopathology, microbiology, aquatic animal health, and disease biology
 </table>
 
 
-
-
----
-
-### 📊 Project Clusters
-- 🔬 [**Digital and Computational Pathology**](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/blob/main/README.md) -  Bioimage analysis, digital health analytics, and Disease prediction
-- 🧬 [**Computational Biology and Bioinformatics Repository**](https://github.com/harishmuh/bioinformatics_biopython_projects) - Sequence and phylogenetic analysis
-- 🧫 [**Comparative & Experimental Pathology**](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) - My published research in histopathology, applied microbiology, and aquaculture  
-
-
 ---
 ### 💡 Key projects
 
