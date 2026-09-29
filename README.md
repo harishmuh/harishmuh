@@ -75,24 +75,66 @@ Histopathology, microbiology, aquatic animal health, and disease biology
 ---
 ### 💡 Featured projects
 
-<p align="center">
-  <a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
-    <img src="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI/blob/main/figures/banner/banner.png?raw=true" alt="Banner" width="600">
-  </a>
-</p>
+<table>
+<tr>
+<td width="45%" valign="top">
 
 
-<p align="center">
-  <a href="https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main">
-    <img src="https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/raw/main/Data/Multi-label%20Thoracic%20Diseases/Banner%20cover.png?raw=true" alt="Banner" width="600">
-  </a>
-</p>
+### 🐟 Freshwater Fish Disease Classification
 
-<p align="center">
-  <a href="https://thoraxscan14.streamlit.app/">
-    <img src="https://github.com/harishmuh/thoraxscan14/blob/main/assets/images/demo_thoraxscan14.gif?raw=true" alt="Banner" width="600">
-  </a>
-</p>
+Deep learning based classification of freshwater fish diseases using image data and explainable AI.
+
+**Methods**
+
+Deep Learning · CNN · TensorFlow · Keras · Grad CAM
+
+**Research focus**
+
+Aquatic disease prediction · Computer vision · Explainable AI
+
+[Live Demo](https://thoraxscan14.streamlit.app/) · [Repository](https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI)
+
+</td>
+
+<td width="55%" valign="top">
+
+<a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
+<img src="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI/blob/main/assets/demo_app/demo-app.gif?raw=true" alt="Freshwater Fish Disease Classification" width="100%">
+</a>
+
+</td>
+</tr>
+
+
+
+<tr>
+<td width="45%" valign="top">
+
+### 🖥️ ThoraxScan14
+
+Interactive application for exploring AI based predictions from chest radiographs.
+
+**Methods**
+
+TensorFlow · Streamlit · Model Deployment · Explainable AI
+
+**Focus**
+
+Biomedical AI · Interactive prediction · Model interpretation
+
+[Live Demo](https://thoraxscan14.streamlit.app/) · [Repository](https://github.com/harishmuh/thoraxscan14)
+
+</td>
+
+<td width="55%" valign="top">
+
+<a href="https://thoraxscan14.streamlit.app/">
+<img src="https://github.com/harishmuh/thoraxscan14/blob/main/assets/images/demo_thoraxscan14.gif?raw=true" alt="ThoraxScan14 application demonstration" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
