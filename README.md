@@ -54,7 +54,7 @@ Image classification, bioimage analysis, and interpretable AI
 <td width="25%" valign="top">
 
 ### 📊
-**Disease Prediction**
+[**Disease Prediction**](https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/tree/main)
 
 Machine learning and deep learning for biological and biomedical data
 
