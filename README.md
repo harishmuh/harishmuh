@@ -66,7 +66,7 @@ Histopathology, microbiology, aquatic animal health, and disease biology
 
 Deep learning based classification of freshwater fish diseases using image data and explainable AI.
 
-**Methods**
+**Tools**
 
 Deep Learning · CNN · TensorFlow · Keras · Grad CAM
 
@@ -94,9 +94,9 @@ Aquatic disease prediction · Computer vision · Explainable AI
 
 ### 🖥️ ThoraxScan14
 
-Interactive application for exploring AI based predictions from chest radiographs.
+Interactive application for exploring AI-based predictions from chest radiographs.
 
-**Methods**
+**Tools**
 
 TensorFlow · Streamlit · Model Deployment · Explainable AI
 
