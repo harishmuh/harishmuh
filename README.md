@@ -11,7 +11,7 @@ I am a life sciences researcher and data science instructor working at the inter
 
 ---
 
-### 🔬 Research Focus
+### 🔬 Research Areas
 
 <table>
 <tr>
