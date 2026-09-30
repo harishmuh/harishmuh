@@ -15,37 +15,29 @@ I am a life sciences researcher and data science instructor working at the inter
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧬
-[**Computational Biology**](https://github.com/harishmuh/bioinformatics_biopython_projects)
+[**Computational Biology & Bioinformatics**](https://github.com/harishmuh/bioinformatics_biopython_projects)
 
 Biological data analysis, bioinformatics, and predictive modeling
 
 </td>
 
-<td width="25%" valign="top">
 
-### 🖥️
-**Biomedical Imaging**
-
-Image classification, bioimage analysis, and interpretable AI
-
-</td>
-
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 ### 📊
-[**Disease Prediction**](https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/tree/main)
+[**AI for Disease Prediction & Biomedical Imaging**](https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/tree/main)
 
-Machine learning and deep learning for biological and biomedical data
+ML & DL for disease prediction, bioimage analysis, healthcare analytics, and Interpretable AI
 
 </td>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔬
-[**Experimental Biology**](https://github.com/harishmuh/experimental-biology)
+[**Experimental Biology & Pathology**](https://github.com/harishmuh/experimental-biology)
 
 Microbiology, aquatic animal health, histopathology, and disease biology
 
