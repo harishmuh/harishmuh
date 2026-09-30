@@ -80,7 +80,7 @@ Aquatic disease prediction · Computer vision · Explainable AI
 
 <td width="55%" valign="top">
 
-<a href="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI">
+<a href="https://fishscan7.streamlit.app/">
 <img src="https://github.com/harishmuh/fresh_water_fish_disease_classification_with_deep_learning_and_explainable_AI/blob/main/assets/demo_app/demo-app.gif?raw=true" alt="Freshwater Fish Disease Classification" width="100%">
 </a>
 
