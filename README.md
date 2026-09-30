@@ -28,7 +28,7 @@ Biological data analysis, bioinformatics, and predictive modeling
 <td width="33%" valign="top">
 
 ### 📊
-[**AI for Disease Prediction & Biomedical Imaging**](https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/tree/main)
+[**AI for Disease Prediction & Biomedical Imaging**](https://github.com/harishmuh/AI-for-disease-prediction-and-bio-medical-image-analysis/blob/main/README.md)
 
 ML & DL for disease prediction, bioimage analysis, healthcare analytics, and Interpretable AI
 
