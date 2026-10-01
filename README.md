@@ -28,7 +28,7 @@ Explore my work → [Open Portfolio](https://github.com/harishmuh/bioinformatics
 </td>
 
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### 📊
 **AI for Disease Prediction & Biomedical Imaging**
@@ -46,11 +46,10 @@ Explore my work → [Open Portfolio](https://github.com/harishmuh/AI-for-disease
 ### 🔬
 **Experimental Biology & Pathology**
 
-Microbiology
-Aquatic animal health
-Histopathology
-Parasitology
-Disease biology
+* Microbiology
+* Aquatic animal health
+* Histopathology
+* Disease biology/Parasitology
 
 Explore my work → [Open Portfolio](https://github.com/harishmuh/experimental-biology)
 </td>
