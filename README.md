@@ -18,30 +18,43 @@ I am a life sciences researcher and data science instructor working at the inter
 <td width="33%" valign="top">
 
 ### 🧬
-[**Computational Biology & Bioinformatics**](https://github.com/harishmuh/bioinformatics_biopython_projects)
+**Computational Biology & Bioinformatics**
 
-Biological data analysis, bioinformatics, and predictive modeling
+* Sequence analysis
+* Phylogenetics
+* Biological data analysis
 
+Explore my work → [Open Portfolio](https://github.com/harishmuh/bioinformatics_biopython_projects)
 </td>
 
 
 <td width="33%" valign="top">
 
 ### 📊
-[**AI for Disease Prediction & Biomedical Imaging**](https://github.com/harishmuh/AI-for-disease-prediction-and-bio-medical-image-analysis/blob/main/README.md)
+**AI for Disease Prediction & Biomedical Imaging**
 
-ML & DL for disease prediction, bioimage analysis, healthcare analytics, and Interpretable AI
+* Disease prediction 
+* Biological & medical image analysis
+* Healthcare analytics
+* Interpretable AI
 
+Explore my work → [Open Portfolio](https://github.com/harishmuh/AI-for-disease-prediction-and-bio-medical-image-analysis/blob/main/README.md)
 </td>
 
 <td width="33%" valign="top">
 
 ### 🔬
-[**Experimental Biology & Pathology**](https://github.com/harishmuh/experimental-biology)
+**Experimental Biology & Pathology**
 
-Microbiology, aquatic animal health, histopathology, and disease biology
+Microbiology
+Aquatic animal health
+Histopathology
+Parasitology
+Disease biology
 
+Explore my work → [Open Portfolio](https://github.com/harishmuh/experimental-biology)
 </td>
+
 </tr>
 </table>
 
