@@ -7,7 +7,7 @@
 I am a life sciences researcher and data science instructor working at the intersection of biology, machine learning, and biomedical imaging. My research background spans microbiology, histopathology, aquatic animal health, and disease biology. I apply statistical learning and deep learning to biological and biomedical data, with particular interests in disease prediction, bioimage analysis, and interpretable AI.
 
 
-[LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/) · [Google Scholar](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0004-7639-7582) · [ResearchGate](https://www.researchgate.net/profile/Harish-Muhammad-2)
+[LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/) · [Google Scholar](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0004-7639-7582) · [ResearchGate](https://www.researchgate.net/profile/Harish-Muhammad-2) · [Experimetal Biology & Publication Records](https://github.com/harishmuh/experimental-biology/blob/main/publication.md)
 
 ---
 
