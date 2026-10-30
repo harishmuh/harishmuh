@@ -108,7 +108,7 @@ TensorFlow · Streamlit · Model Deployment · Explainable AI
 
 Biomedical AI · Interactive prediction · Model interpretation
 
-[Live Demo](https://thoraxscan14.streamlit.app/) · [Repository](https://github.com/harishmuh/thoraxscan14)
+[Live Demo](https://thoraxscan14.streamlit.app/) · [Repository](https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM)
 
 </td>
 
