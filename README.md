@@ -59,7 +59,7 @@ Explore my work → [Open Portfolio](https://github.com/harishmuh/experimental-b
 
 
 ---
-### 💡 Featured projects
+### 💡 Computational Biology and AI Projects
 
 <table>
 <tr>
